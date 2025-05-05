@@ -4,7 +4,7 @@ This application manages accounts and transactions.
 
 ## Note
 ```
-1. Added test cased for rest apis which covers db mock and rest apis
+1. Added test cases for rest apis which covers db mock and rest apis
 2. Added goose migrations folder to automatically run sql scripts
 
 ```
