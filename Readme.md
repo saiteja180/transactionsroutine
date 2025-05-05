@@ -1,5 +1,8 @@
 ## Transaction Routine 
 This application manages accounts and transactions.
+
+## make sure docker is installed in your system
+
 ## Folder structure 
 
 ## Transactionroutine 
