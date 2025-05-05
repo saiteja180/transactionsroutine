@@ -1,0 +1,2 @@
+### GET request to example server
+GET http://localhost:8080/api/v1/accounts?accountId=80cb16fc-35e9-4cf6-ad74-e7dc337eb556
